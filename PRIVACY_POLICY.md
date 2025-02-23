@@ -15,3 +15,6 @@ This privacy policy applies to all software and/or services offered by us and ou
 
 ## 5. Changes to our privacy policy
 We will be revising, updating and changing our privacy policy from time to time. Any time we do so, the revised and/or updated and/or changed privacy policy will be posted on our site. By agreeing to use and by continually agreeing to use our software and/or services you hereby agree to review our privacy policy from time to time and make yourself aware of any modifications. If at any point you do not agree to the terms of our privacy policy, then you should not be using our software and/or our services.
+
+**User Support Email:**  
+If you have any questions regarding this privacy policy or need assistance, please contact us at: [super.xchera@gmail.com](mailto:super.xchera@gmail.com)
